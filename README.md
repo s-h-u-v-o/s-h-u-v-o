@@ -1,16 +1,15 @@
-## Hi there 👋
+***My CS journey (only codes)***
 
-<!--
-**s-h-u-v-o/s-h-u-v-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Language (Python)
+[CSE110](https://github.com/s-h-u-v-o/CSE110_Programming-language-I)
+[CSE111](https://github.com/s-h-u-v-o/CSE111_Programming-language-II)
 
-Here are some ideas to get you started:
+### Data Structures and Algorithms
+[CSE220](https://github.com/s-h-u-v-o/CSE220_Data-structure)
+[CSE221](https://github.com/s-h-u-v-o/CSE221_Algorithms)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Operating System
+[CSE321](https://github.com/s-h-u-v-o/CSE321_Operating-system)
+
+### Numerical Methods
+[CSE330](https://github.com/s-h-u-v-o/CSE330_Numerical-methods)
