@@ -1,4 +1,4 @@
-***My academic journey (only codes)***
+***university courses***
 
 ### Programming Language (Python)
 [CSE110](https://github.com/s-h-u-v-o/CSE110_Programming-language-I)
