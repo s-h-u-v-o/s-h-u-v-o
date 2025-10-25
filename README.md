@@ -1,6 +1,6 @@
 ***university projects***
 
-https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project
+[MiniVSFS: A C-based VSFS Image Generator](https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project)
 
 
 ***university courses***
