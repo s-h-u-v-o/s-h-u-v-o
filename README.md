@@ -24,5 +24,8 @@
 ### Numerical Methods
 [CSE330](https://github.com/s-h-u-v-o/CSE330_Numerical-methods)
 
+### Artificial Intelligence
+[CSE422](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence)
+
 ### Computer Graphics
 [CSE423](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics)
