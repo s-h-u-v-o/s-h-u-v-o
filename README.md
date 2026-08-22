@@ -1,10 +1,10 @@
 ***university projects:***
 
-[MiniVSFS: A C-based VSFS Image Generator](https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project)
-
 [3D Tank Battle](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics/blob/main/project.py)
 
 [Food Waste Prediction](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence/tree/main/Lab%20Project)
+
+[MiniVSFS: A C-based VSFS Image Generator](https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
