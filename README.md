@@ -1,6 +1,6 @@
 ***university projects:***
 
-[Club-Collab (club management demo website](https://github.com/s-h-u-v-o/CSE370_Database-Systems)
+[Club-Collab (club management demo website)](https://github.com/s-h-u-v-o/CSE370_Database-Systems)
 
 [Digital Pet Simulator (8086-assembly)](https://github.com/s-h-u-v-o/CSE341_Microprocessors)
 
