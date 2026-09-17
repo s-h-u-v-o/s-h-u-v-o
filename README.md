@@ -1,44 +1,73 @@
-***university projects:***
+<h1 align="center">Hi there, I'm Shuvo 👋</h1>
 
-[Club-Collab (club management demo website)](https://github.com/s-h-u-v-o/CSE370_Database-Systems)
+<p align="center">
+  <em>Computer Science & Engineering Student · BRAC University</em>
+</p>
 
-[Digital Pet Simulator (8086-assembly)](https://github.com/s-h-u-v-o/CSE341_Microprocessors)
+---
 
-[3D Tank Battle (OpenGL project)](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics/blob/main/project.py)
+## 🚀 Featured Projects
 
-[Food Waste Prediction](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence/tree/main/Lab%20Project)
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 🎓 [**Club-Collab**](https://github.com/s-h-u-v-o/CSE370_Database-Systems) | Club management demo website | Database Systems |
+| 🐾 [**Digital Pet Simulator**](https://github.com/s-h-u-v-o/CSE341_Microprocessors) | Interactive pet simulator | 8086 Assembly |
+| 🎮 [**3D Tank Battle**](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics/blob/main/project.py) | 3D tank combat game | OpenGL / Python |
+| 🍽️ [**Food Waste Prediction**](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence/tree/main/Lab%20Project) | ML model to predict food waste | AI / Python |
+| 💾 [**MiniVSFS**](https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project) | C-based VSFS image generator | C / OS |
 
-[MiniVSFS: A C-based VSFS Image Generator](https://github.com/s-h-u-v-o/CSE321_Operating-System/tree/main/Lab%20Project)
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📚 University Coursework
 
-***university courses:***
+A collection of coursework from my undergraduate studies at **BRAC University**.
 
-### Programming Language (Python)
-[CSE110](https://github.com/s-h-u-v-o/CSE110_Programming-language-I)
-[CSE111](https://github.com/s-h-u-v-o/CSE111_Programming-language-II)
+### 🐍 Programming Language
+| Course | Repository |
+| :--- | :--- |
+| CSE110 — Programming Language I | [View Repo](https://github.com/s-h-u-v-o/CSE110_Programming-language-I) |
+| CSE111 — Programming Language II | [View Repo](https://github.com/s-h-u-v-o/CSE111_Programming-language-II) |
 
-### Data Structures and Algorithms
-[CSE220](https://github.com/s-h-u-v-o/CSE220_Data-structure)
-[CSE221](https://github.com/s-h-u-v-o/CSE221_Algorithms)
+### 🧩 Data Structures & Algorithms
+| Course | Repository |
+| :--- | :--- |
+| CSE220 — Data Structures | [View Repo](https://github.com/s-h-u-v-o/CSE220_Data-structure) |
+| CSE221 — Algorithms | [View Repo](https://github.com/s-h-u-v-o/CSE221_Algorithms) |
 
-### Operating System
-[CSE321](https://github.com/s-h-u-v-o/CSE321_Operating-system)
+### ⚙️ Systems & Architecture
+| Course | Repository |
+| :--- | :--- |
+| CSE321 — Operating Systems | [View Repo](https://github.com/s-h-u-v-o/CSE321_Operating-system) |
+| CSE341 — Microprocessors | [View Repo](https://github.com/s-h-u-v-o/CSE341_Microprocessors) |
 
-### Numerical Methods
-[CSE330](https://github.com/s-h-u-v-o/CSE330_Numerical-methods)
+### 📊 Computation & Data
+| Course | Repository |
+| :--- | :--- |
+| CSE330 — Numerical Methods | [View Repo](https://github.com/s-h-u-v-o/CSE330_Numerical-methods) |
+| CSE370 — Database Systems | [View Repo](https://github.com/s-h-u-v-o/CSE370_Database-Systems) |
 
-### Microprocessors
-[CSE341](https://github.com/s-h-u-v-o/CSE341_Microprocessors)
+### 🌐 Networks & Intelligence
+| Course | Repository |
+| :--- | :--- |
+| CSE421 — Computer Networks | [View Repo](https://github.com/s-h-u-v-o/CSE421_Computer-Networks) |
+| CSE422 — Artificial Intelligence | [View Repo](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence) |
+| CSE423 — Computer Graphics | [View Repo](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics) |
 
-### Database Systems
-[CSE370](https://github.com/s-h-u-v-o/CSE370_Database-Systems)
+---
 
-### Computer Networks
-[CSE421](https://github.com/s-h-u-v-o/CSE421_Computer-Networks)
+## 🛠️ Tech Stack
 
-### Artificial Intelligence
-[CSE422](https://github.com/s-h-u-v-o/CSE422_Artificial-Intelligence)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### Computer Graphics
-[CSE423](https://github.com/s-h-u-v-o/CSE423_Computer-Graphics)
+---
+
+<p align="center">
+  <em>Thanks for stopping by! Feel free to explore my repos and reach out. ✨</em>
+</p>
